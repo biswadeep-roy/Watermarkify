@@ -2,6 +2,11 @@
 
 Watermarkify is a Python tool designed to simplify the process of adding watermarks to images. Whether you're looking to brand your images with a logo or protect them with a custom text watermark, Watermarkify provides an easy-to-use solution.
 
+Screenshot of Output:
+![image](https://github.com/biswadeep-roy/Watermarkify/assets/74821633/b7f47fba-5bcc-4652-9342-7ff7ccf9b6a0)
+
+
+
 ## Features
 
 - **Logo Watermark**: Seamlessly embed your logo onto images with customizable transparency levels.
